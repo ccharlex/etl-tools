@@ -10,10 +10,10 @@ This is an ETL tool built to migrate data from LAMIS3 to LAMISPlus v1.0. This to
 
 ## Components
 There are various migration components available here. For a new migration, it is advisable to start with the facility migration and user migration before running the other migration components.
-- Facility Migration: This migration can be found at ./facility_migration/facility_migration_run[.bat/.sh]. 
-- User Migration: This migration can be found at ./user_migration/user_migration_run[.bat/.sh]
-- Patient Migration: This migration can be found at ./patient_migration/patient_migration_run[.bat/.sh]
-- Laboratory Migration: This migration can be found at ./laboratory_migration/laboratory_migration_run[.bat/.sh]
+- Facility Migration: This component can be found at ./facility_migration/facility_migration_run[.bat/.sh]. 
+- User Migration: This component can be found at ./user_migration/user_migration_run[.bat/.sh]
+- Patient Migration: This component can be found at ./patient_migration/patient_migration_run[.bat/.sh]
+- Laboratory Migration: This component can be found at ./laboratory_migration/laboratory_migration_run[.bat/.sh]
 
 ## Installation
 
